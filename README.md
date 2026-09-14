@@ -15,4 +15,7 @@ This repository documents hands-on labs, challenges, and practical exercises I h
 - [Building a two-floor Vlan Campus](https://switchlab.dev/sandbox?join=9dca5d8f-d98d-4d45-8889-7fa23550b2d7)
 - [Vlan Outage:The pruned Trunk](https://switchlab.dev/sandbox?join=970aed93-1b27-4d46-94d1-234a639bb32b)
 - [Regional outage: the one way path](https://switchlab.dev/sandbox?join=08bdefc9-b491-4a64-9298-159a1fb3d8a6)
+- [Campus Outage: Wrong Default Gateway](https://switchlab.dev/sandbox?join=dc441dd3-d4ad-44ea-9b7b-ec51774afd09)
+- [New Desktops Cannot Leave the Floor](https://switchlab.dev/sandbox?join=c5b414bb-22eb-46c8-8c69-0fbc72a93882)
+
   
