@@ -17,5 +17,8 @@ This repository documents hands-on labs, challenges, and practical exercises I h
 - [Regional outage: the one way path](https://switchlab.dev/sandbox?join=08bdefc9-b491-4a64-9298-159a1fb3d8a6)
 - [Campus Outage: Wrong Default Gateway](https://switchlab.dev/sandbox?join=dc441dd3-d4ad-44ea-9b7b-ec51774afd09)
 - [New Desktops Cannot Leave the Floor](https://switchlab.dev/sandbox?join=c5b414bb-22eb-46c8-8c69-0fbc72a93882)
-
-  
+- [Branch Desktops Cannot Get an Address](https://switchlab.dev/sandbox?join=8b2f59ac-7e71-4ecd-9fb5-c6a864987663)
+- [One Department Lost Its Gateway](https://switchlab.dev/sandbox?join=a7843155-4da4-44f4-ad8a-fbe8c7fb783e)
+- [Only One Branch Host Is Unreachable](https://switchlab.dev/sandbox?join=b6b8103e-a03f-4554-89e8-fb631a8ca85d)
+- [The Branch Link Is Up, but Routes Are Missing](https://switchlab.dev/sandbox?join=83270b97-c01c-4732-96e9-59091acf6b20)
+- [Regional Recovery: Two Independent Faults](https://switchlab.dev/sandbox?join=b89a2215-5e26-4f2b-8d28-9bcbf44ea54c)
